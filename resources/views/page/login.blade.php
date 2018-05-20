@@ -17,11 +17,11 @@
 
 						
 						<div class="form-block">
-							<label for="email">Email address*</label>
+							<label for="email">Email address</label>
 							<input type="email" name="email" required>
 						</div>
 						<div class="form-block">
-							<label for="phone">Password*</label>
+							<label for="phone">Password</label>
 							<input type="text" name="phone" required>
 						</div>
 						<div class="form-block">
